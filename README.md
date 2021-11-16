@@ -30,14 +30,12 @@ O action.yml define os inputs e outputs de sua Action.
 
 documentação da sintaxe de um action.yml [documentation](https://help.github.com/en/articles/metadata-syntax-for-github-actions)
 
-## Buildando e subindo para repositório para utilizar a Action
+## Subindo para repositório para utilizar a Action
 
 ```bash
-$ npm run all
 $ git add -A
-$ git commit -a -m "prod dependencies"
-$ git push
-$ git tag -a -m "prod dependencies" v1.0
+$ git commit -m "My first action commit"
+$ git tag -a -m "My first action release" v1.1
 $ git push --follow-tags
 ```
 
