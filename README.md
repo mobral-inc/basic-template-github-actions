@@ -21,7 +21,7 @@ $ npm install
 Build typescript and package it for distribution
 
 ```bash
-$ npm run build && npm run package
+$ npm run all
 ```
 
 ## Edite o action.yml
