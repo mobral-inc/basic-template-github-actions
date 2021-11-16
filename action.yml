@@ -1,11 +1,5 @@
-name: 'Your name here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
-inputs:
-  milliseconds: # change this
-    required: true
-    description: 'input description here'
-    default: 'default value if applicable'
+name: 'Basic template github actions'
+description: 'Um simples template de uma github action escrita em typescript'
 runs:
   using: 'node12'
   main: 'dist/index.js'
