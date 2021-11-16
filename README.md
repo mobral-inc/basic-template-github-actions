@@ -10,7 +10,7 @@ Essa ação foi criada a partir do template: [Typescript-Action-Template](https:
 
 Clique em `Use this Template` e modifique com as informações para o seu repositório.
 
-## Escreva seu código dentro do arquivo Main (Crie novos arquivos se necessário, mas sempre os chame dentro do Main)
+## Escreva seu código dentro do arquivo Main.ts na pasta src (Crie novos arquivos se necessário, mas sempre os chame dentro do Main e crie eles dentro da pasta src)
 
 > Primeiramente tenha a versão mais recente do node instalada em conjunto com o npm.
 
