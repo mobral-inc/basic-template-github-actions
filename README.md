@@ -3,6 +3,7 @@
 :rocket: :rocket: :rocket:
 
 Se você não sabe o que está fazendo acesse o link: [Hello World JavaScript Action](https://github.com/actions/hello-world-javascript-action)
+Essa ação foi criada a partir do template: [Typescript-Action-Template](https://github.com/actions/typescript-action)
 
 ## Criar ação a partir deste template
 
